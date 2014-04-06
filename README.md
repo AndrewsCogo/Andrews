@@ -1,14 +1,7 @@
 Andrews
 =======
-mkdir ~ / Olá Mundo 
-# Cria um diretório para seu projeto chamado "Olá Mundo" no seu diretório de usuário
+git add README 
+# Stages seu arquivo README, adicioná-lo à lista de arquivos a ser cometido
 
-cd ~ / Olá Mundo 
-# Muda o diretório de trabalho atual para o diretório recém-criado
-
-git inicialização 
-# Configura as necessárias Git arquivos 
-# Initialized repositório Git vazio em / Users / você / Hello-World/.git /
-
-tocar README 
-# Cria um arquivo chamado "LEIA-ME" em seu diretório Olá Mundo
+git commit-m 'primeiro commit' 
+# Compromete seus arquivos, adicionando a mensagem "primeiro commit"
